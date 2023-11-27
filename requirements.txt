@@ -1,0 +1,6 @@
+django
+django-environ
+pillow
+psycopg2
+requests
+django[argon2]
